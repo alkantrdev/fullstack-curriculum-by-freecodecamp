@@ -2,7 +2,7 @@
 Full Stack curriculum from freeCodeCamp (useful parts)
 
 ## References & Credits
-- [Website](https://www.freecodecamp.org)
+- [FreeCodeCamp](https://www.freecodecamp.org)
 
 ## Basics
 
